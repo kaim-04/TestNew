@@ -3,6 +3,6 @@ package Kata;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        System.out.println("Проверка - добавляю новую строку и отправляю на Git");
     }
 }
